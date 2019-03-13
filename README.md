@@ -32,3 +32,4 @@ Multi-scale feature maps improve accuracy significantly.
 
 SSD predictions are classified as positive matches or negative matches. SSD only uses positive matches in calculating the localization cost (the mismatch of the boundary box). If the corresponding default boundary box (not the predicted boundary box) has an IoU greater than 0.5 with the ground truth, the match is positive. Otherwise, it is negative. (IoU, the Intersection over Union, is the ratio between the intersected area over the joined area for two regions.)
 
+Reference : https://arxiv.org/pdf/1512.02325.pdf
