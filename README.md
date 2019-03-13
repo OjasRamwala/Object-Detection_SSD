@@ -1,7 +1,7 @@
 # Object-Detection_SSD
 Learning attempt on object detection using Single Shot Multi Box Detection.
 
-SSD is the most powerful algorithm as compared to faster-R-CNN or yolo.
+SSD is the most powerful algorithm as compared to faster-R-CNN or YOLO.
 
 This repository includes:
                           
