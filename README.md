@@ -4,6 +4,7 @@ Learning attempt on object detection using Single Shot Multi Box Detection.
 SSD is the most powerful algorithm as compared to faster-R-CNN or yolo.
 
 This repository includes:
+                          
                           (I)Detection of Dogs jumping on a ground.
                           (II)Detection of Horses galloping in one of the most magical places in the world. 
 
