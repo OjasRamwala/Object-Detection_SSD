@@ -1,6 +1,8 @@
 # Object-Detection_SSD
 Learning attempt on object detection using Single Shot Multi Box Detection.
 
+This model detects the location of an enthusisatic dog hopping and jumping in a green-contrast background.
+
 SSD will divide the image into segments. Make boxes around these segments.Each box individually predicts whether the object is present in it or not.
 Also predicts where the object is present in the image.
 
