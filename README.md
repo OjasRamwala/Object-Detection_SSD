@@ -22,7 +22,6 @@ These improvements allow SSD to match the Faster R-CNN’s accuracy using lower 
 The SSD object detection composes of 2 parts:
 
                                             (1)Extract feature maps
-   
                                             (2)Apply convolution filters to detect objects.
 
 SSD uses VGG16 to extract feature maps. Then it detects objects using the Conv4_3 layer. 
