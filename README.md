@@ -8,7 +8,7 @@ This repository includes:
                           (I)Detection of Dogs jumping on a ground.
                           (II)Detection of Horses galloping in one of the most magical places in the world. 
 
-SSD will divide the image into segments. Make boxes around these segments.Each box individually predicts whether the object is present in it or not.
+SSD will divide the image into segments. Make boxes around these segments. Each box individually predicts whether the object is present in it or not.
 Also predicts where the object is present in the image.
 
 Faster R-CNN uses a region proposal network to create boundary boxes and utilizes those boxes to classify objects. 
